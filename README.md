@@ -1,5 +1,5 @@
 <br/>
-<h3 align="center">@SameeraMurthy</h3>
+<h3 align="center">Sameer Haritasa</h3>
 <p align="center">Planning my next project. <br/><br/>
 <a align="center" href="https://github.com/flowshade"><img src="https://avatars.githubusercontent.com/u/77216494?s=40&v=4"/></a>
 <a align="center" href="https://github.com/articulist"><img src="https://avatars.githubusercontent.com/u/101519796?s=40&v=4"/></a>
